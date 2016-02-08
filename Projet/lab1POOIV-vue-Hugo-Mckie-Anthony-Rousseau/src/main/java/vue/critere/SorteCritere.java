@@ -1,0 +1,5 @@
+package vue.critere;
+
+public enum SorteCritere { MOT_COMPLET, MOT_PARTIEL, DATE_MODIFICATION, DATE_CREATION, AVEC_IMAGE, DEFINITION
+
+}
